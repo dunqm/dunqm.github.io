@@ -1,1 +1,1 @@
-window.screenOrientation="sensor_landscape",loadLib("libs/laya-59eb97b1c1.core.js"),loadLib("libs/laya-dfa7b9caab.webgl.js"),loadLib("libs/laya-a21a7f1cae.ui.js"),loadLib("libs/laya-0df4ab828f.device.js"),loadLib("libs/laya-8eda577dfe.physics.js"),loadLib("js/bundle-8ad6278d7f.js");
+window.screenOrientation="sensor_landscape",loadLib("libs/laya-59eb97b1c1.core.js"),loadLib("libs/laya-dfa7b9caab.webgl.js"),loadLib("libs/laya-a21a7f1cae.ui.js"),loadLib("libs/laya-0df4ab828f.device.js"),loadLib("libs/laya-8eda577dfe.physics.js"),loadLib("js/bundle-97e95e235f.js");
